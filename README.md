@@ -15,6 +15,11 @@ Ao invés de focar apenas em produzir mais código, o Lean Development busca pro
 
 ---
 
+IMAGEM AQUI  
+*(Exemplo: diagrama explicando Lean Development)*
+
+---
+
 # Definição e Características
 
 Lean Development é uma abordagem que busca otimizar o processo de desenvolvimento de software através da eliminação de atividades desnecessárias e melhoria contínua do processo.
@@ -27,6 +32,11 @@ Lean Development é uma abordagem que busca otimizar o processo de desenvolvimen
 - Melhoria contínua
 - Equipes colaborativas
 - Qualidade integrada ao processo
+
+---
+
+IMAGEM AQUI  
+*(Exemplo: fluxo de desenvolvimento Lean)*
 
 ---
 
@@ -57,6 +67,11 @@ Melhorar todo o fluxo de trabalho e não apenas partes isoladas.
 
 ---
 
+IMAGEM AQUI  
+*(Exemplo: gráfico dos 7 princípios Lean)*
+
+---
+
 # Tipos de Projetos Mais Adequados
 
 Lean Development é mais adequado para projetos que:
@@ -75,6 +90,11 @@ Lean Development é mais adequado para projetos que:
 
 ---
 
+IMAGEM AQUI  
+*(Exemplo: aplicações reais do Lean)*
+
+---
+
 # Ferramentas Utilizadas
 
 Algumas ferramentas utilizadas em projetos que aplicam Lean Development incluem:
@@ -86,6 +106,11 @@ Algumas ferramentas utilizadas em projetos que aplicam Lean Development incluem:
 - Kanban Boards
 
 Essas ferramentas ajudam na organização das tarefas, no controle de versões e na colaboração entre os desenvolvedores.
+
+---
+
+IMAGEM AQUI  
+*(Exemplo: quadro Kanban)*
 
 ---
 
@@ -108,11 +133,8 @@ Essas ferramentas ajudam na organização das tarefas, no controle de versões e
 
 ---
 
-# Exemplos de Aplicação
-
-Diversas empresas de tecnologia utilizam princípios do Lean Development para melhorar seus processos de desenvolvimento.
-
-Alguns exemplos incluem empresas que trabalham com entrega contínua de software e melhoria constante de seus produtos.
+IMAGEM AQUI  
+*(Exemplo: comparação de produtividade)*
 
 ---
 
@@ -128,11 +150,21 @@ Alguns exemplos incluem empresas que trabalham com entrega contínua de software
 
 ---
 
+IMAGEM AQUI  
+*(Exemplo: gráfico comparando metodologias)*
+
+---
+
 # Conclusão
 
 Lean Development é uma metodologia eficiente que busca melhorar o processo de desenvolvimento de software através da eliminação de desperdícios e da entrega contínua de valor ao cliente.
 
 Seu foco em melhoria contínua, colaboração entre equipes e rapidez na entrega torna essa abordagem muito utilizada em projetos modernos de tecnologia.
+
+---
+
+IMAGEM AQUI  
+*(Exemplo: resumo visual da metodologia Lean)*
 
 ---
 
