@@ -34,7 +34,7 @@ Lean Development é uma abordagem que busca otimizar o processo de desenvolvimen
 
 ---
 
-![Fluxo](assets/fluxo de desenvolvimento.png)
+![Fluxo](assets/fluxo%20de%20desenvolvimento.png)
 
 ---
 
@@ -42,17 +42,17 @@ Lean Development é uma abordagem que busca otimizar o processo de desenvolvimen
 
 O Lean Development é baseado em **7 princípios principais**:
 
-1. **Eliminar desperdícios**  
-2. **Amplificar o aprendizado**  
-3. **Decidir o mais tarde possível**  
-4. **Entregar o mais rápido possível**  
-5. **Empoderar a equipe**  
-6. **Construir qualidade no processo**  
-7. **Otimizar o todo**
+1. Eliminar desperdícios  
+2. Amplificar o aprendizado  
+3. Decidir o mais tarde possível  
+4. Entregar o mais rápido possível  
+5. Empoderar a equipe  
+6. Construir qualidade no processo  
+7. Otimizar o todo  
 
 ---
 
-![Principios](assets/5 principios Lean.png)
+![Principios](assets/5%20principios%20Lean.png)
 
 ---
 
@@ -74,21 +74,23 @@ Lean Development é mais adequado para projetos que:
 
 ---
 
-![Toyota](assets/produçao toyota exemplo real.png)
+![Toyota](assets/produçao%20toyota%20exemplo%20real.png)
 
 ---
 
 # Ferramentas Utilizadas
 
-- Jira  
-- Trello  
-- GitHub  
-- GitLab  
-- Kanban Boards  
+Algumas ferramentas utilizadas em projetos que aplicam Lean Development incluem:
+
+- Jira
+- Trello
+- GitHub
+- GitLab
+- Kanban Boards
 
 ---
 
-![Exemplo](assets/exemplo visual da metodologia.png)
+![Exemplo](assets/exemplo%20visual%20da%20metodologia.png)
 
 ---
 
@@ -96,39 +98,41 @@ Lean Development é mais adequado para projetos que:
 
 - Redução de desperdícios
 - Maior produtividade da equipe
-- Entrega mais rápida
+- Entrega mais rápida de software
 - Melhor adaptação a mudanças
+- Maior foco no cliente
 
 ---
 
 # Desvantagens
 
-- Difícil no início
-- Precisa de organização
-- Pode confundir sem gestão
+- Pode ser difícil de implementar inicialmente
+- Exige equipes bem organizadas
+- Pode gerar confusão sem uma boa gestão
+- Nem sempre funciona bem em projetos muito rígidos
 
 ---
 
 # Comparação com Outras Metodologias
 
 | Metodologia | Característica |
-|------------|--------------|
-| Scrum | Sprints |
+|-------------|---------------|
+| Scrum | Desenvolvimento em sprints |
 | Agile | Flexível |
 | DevOps | Integração |
 | Spiral | Controle de risco |
-| Lean | Sem desperdício |
+| Lean | Eliminar desperdício |
 
 ---
 
 # Conclusão
 
-Lean Development melhora o processo de software eliminando desperdícios e entregando valor contínuo.
+Lean Development é uma metodologia eficiente que busca melhorar o processo de desenvolvimento de software através da eliminação de desperdícios e da entrega contínua de valor ao cliente.
 
 ---
 
 # Referências
 
-- Lean Software Development
-- Artigos sobre Agile
+- Poppendieck, Mary – Lean Software Development  
+- Artigos sobre metodologias ágeis  
 - Documentação de engenharia de software
