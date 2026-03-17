@@ -16,7 +16,7 @@ Ao invés de focar apenas em produzir mais código, o Lean Development busca pro
 ---
 
 IMAGEM AQUI  
-*(Exemplo: diagrama explicando Lean Development)*
+*("assets/diagrama.png")*
 
 ---
 
