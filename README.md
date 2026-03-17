@@ -15,7 +15,6 @@ Ao invés de focar apenas em produzir mais código, o Lean Development busca pro
 
 ---
 
-IMAGEM AQUI  
 *("assets/diagrama.png")*
 
 ---
